@@ -23,7 +23,7 @@ You only look once (YOLO) is a state-of-the-art, real-time object detection syst
 ![GIF demo](img/Guns.gif)
 
 
-Full VideYoutube Link: 
+Youtube Link: 
 https://youtu.be/Uzty5hRWSQs
 
 <b>Note:</b>
@@ -37,6 +37,9 @@ https://youtu.be/Uzty5hRWSQs
 
 ![GIF demo](img/BRICS.gif)
 
+
+Youtube Link: 
+https://youtu.be/8hepsfDWzFA
 
 **Acknowledgements**
 ---
