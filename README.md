@@ -1,6 +1,21 @@
 # Deep-Learning-with-GoogleColab
 Develop Deep Learning Applications with Google Colaboratory - on the free Tesla K80/Tesla T4/Tesla P100 GPU - using Keras, Tensorflow and PyTorch.
 
+**Darknet YOLOv4 - Google Colab (Firearms Detection)**
+---
+Firearms Detection [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/hardik0/Deep-Learning-with-GoogleColab/blob/master/Darknet_YOLOv4_Google_Colab_(Firearm_Detection).ipynb)
+
+Darknet YOLOv4: Real-Time Object Detection
+
+You only look once (YOLOv4) is a state-of-the-art, real-time Firearms detection system for firearms, pistol, rifle detection.
+
+![GIF demo](img/handgun_yolov4.gif)
+
+
+Youtube Link: 
+https://youtu.be/XgvDXT0fme4
+
+
 **Cigarette/Smoking Detection using YOLOv3 Darknet**
 ---
 Cigarette/Smoking Detection [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/hardik0/Deep-Learning-with-GoogleColab/blob/master/Darknet_YOLOv3_Cigarette_Smoking_Detection.ipynb)
